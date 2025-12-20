@@ -40,7 +40,4 @@ Each program is written in a **simple and easy-to-understand manner**, making it
 - ✅ File Handling
 - ✅ Basic Problem-Solving Programs
 
----
-
-## 📂 Repository Structure
 
