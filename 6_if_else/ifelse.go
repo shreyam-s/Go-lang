@@ -58,4 +58,6 @@ func main(){
     // if age >= 18 && age < 60 {
     //     println("Working age")
     // }
+
+	//go does not have ternary operator, you will have to use if-else
 }
