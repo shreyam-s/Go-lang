@@ -2,7 +2,6 @@ package main
 
 // A map stores data as a key -> value pairs
 // -> map[keyType]valueType
-
 func main(){
 
 	// // Declare map
@@ -101,6 +100,14 @@ func main(){
 	// 	i++
 	// }
 	// fmt.Println(keys)
+
+
+	// // IMP -> if key does no exist in map then the value return will be 0
+	// // if the is string key then the value will be ""
+	// // if the key is boolean then the value will be false
+	// m := map[string]int{"a":1, "b":2, "c":3}
+	// val := m["d"]
+	// fmt.Println(val)
 }
 
 
